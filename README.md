@@ -1,9 +1,9 @@
 <html>
 
-    <head>
+   <head>
     
-    <link rel="stylesheet" href="style.css"/>
-    <style>
+   <link rel="stylesheet" href="style.css"/>
+   <style>
         body
         {
             background: black;
@@ -13,7 +13,7 @@
         }
         
         
-        </style>    
+   </style>    
     </head>
     <body>
     <ol>
@@ -25,7 +25,7 @@
         
         
         
-        </ol>
+   </ol>
     
     
     
@@ -33,7 +33,7 @@
     
     
     
-    </body>
+  </body>
 
 
 
