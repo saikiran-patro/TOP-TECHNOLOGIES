@@ -3,14 +3,14 @@
    <head>
     
    <link rel="stylesheet" href="style.css"/>
-   <style>
-        body
-        {
+  <style>
+     body
+       {
             background: black;
             color:yellow;
             font-family: sans-serif;
             font-size: 20px
-        }
+       }
         
         
    </style>    
