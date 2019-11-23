@@ -3,18 +3,8 @@
    <head>
     
    <link rel="stylesheet" href="style.css"/>
-  <style>
-     body
-       {
-            background: black;
-            color:yellow;
-            font-family: sans-serif;
-            font-size: 20px
-       }
-        
-        
-   </style>    
-    </head>
+     
+   </head>
     <body>
     <ol>
         <li><a style="color: aqua">Artificial intelligence</a></li>
