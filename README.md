@@ -3,23 +3,7 @@
    <head>
     
    <link rel="stylesheet" href="style.css"/>
-   <style>
-        body
-        {
-            background: black;
-            color:yellow;
-            font-family: sans-serif;
-            font-size: 20px
-       }
-        h3
-        {
-            color: aqua;
-            font-family: cursive;
-            font-size: 40px
-       }
-        
-       
-   </style>    
+  
    </head>
     <body>
         <h1>
