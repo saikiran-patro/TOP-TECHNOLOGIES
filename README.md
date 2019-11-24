@@ -1,26 +1,26 @@
 <html>
 
-    <head>
+   <head>
     
-    <link rel="stylesheet" href="style.css"/>
-    <style>
+   <link rel="stylesheet" href="style.css"/>
+   <style>
         body
         {
             background: black;
             color:yellow;
             font-family: sans-serif;
             font-size: 20px
-        }
+       }
         h3
         {
             color: aqua;
             font-family: cursive;
             font-size: 40px
-        }
+       }
         
-        
-        </style>    
-    </head>
+       
+   </style>    
+   </head>
     <body>
         <h1>
         TOP 5 TECHNOLOGIES OF 2019
@@ -54,10 +54,9 @@
         <li><a style="color:aqua">Big data Analytics</a></li>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsRNnc1BiRvLRFWJZYpAtyjXjjiFX4mKylgypijKFL8bxqKUJj&s"width="300px"height="300px"/>
         <p>
-        Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many cases (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.Especially since 2015, big data has come to prominence within business operations as a tool to help employees work more efficiently and streamline the collection and distribution of information technology (IT). The use of big data to resolve IT and data collection issues within an enterprise is called IT operations analytics (ITOA). By applying big data principles into the concepts of machine intelligence and deep computing, IT departments can predict potential issues and move to provide solutions before the problems even happen. In this time, ITOA businesses were also beginning to play a major role in systems management by offering platforms that brought individual data silos together and generated insights from the whole of the system rather than from isolated pockets of data.
-        </p>
+        Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many cases (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.Especially since 2015, big data has come to prominence within business operations as a tool to help employees work more efficiently and streamline the collection and distribution of information technology (IT). The use of big data to resolve IT and data collection issues within an enterprise is called IT operations analytics (ITOA). By applying big data principles into the concepts of machine intelligence and deep computing, IT departments can predict potential issues and move to provide solutions before the problems even happen. In this time, ITOA businesses were also beginning to play a major role in systems management by offering platforms that brought individual data silos together and generated insights from the whole of the system rather than from isolated pockets of data.       </p>
         
-    </ol>
+   </ol>
     
     
     
@@ -65,8 +64,7 @@
     
     
     
-    </body>
-
+   </body>
 
 
 
