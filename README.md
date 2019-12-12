@@ -28,7 +28,7 @@
         </p>
         <li>
         <a style="color:aqua">Blockchain</a></li>
-        <img src="https://imarticus.org/wp-content/uploads/2019/05/1_1J08qvsHdxnA7SBbl9Sgkw.png"width="300px"height="300px"/>
+        <img src="https://www.bbvaopenmind.com/wp-content/uploads/2016/10/BBVA-OpenMind-Joaquin-Isasa-La-tecnologi%CC%81a-blockchain-en-el-punto-de-mira-de-la-industria-financiera.jpg"width="300px"height="300px"/>
         <p>Blockchain is the most useful technology in crytocurrency and this technology is used by most tech companies.Blockchain technology can be integrated into multiple areas. The primary use of blockchains today is as a distributed ledger for cryptocurrencies, most notably bitcoin. There are a few operational products maturing from proof of concept by late 2016.[37] Businesses have been thus far reluctant to place blockchain at the core of the business structure.</p>
         <li>
         <a style="color: aqua">Mixed reality</a>
